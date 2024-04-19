@@ -1,1 +1,2 @@
-Here I upload all data related projects including SQL, Excel, PowerBI, Data Analytics, Data Science, Business Analytics, Python, etc.
+** Excel Project
+- [Bike Dashboard](https://github.com/rohini-ranjanR/dataDataDATA/blob/main/excel/bikeSaleDashboard/output%20image.md)
